@@ -1,7 +1,7 @@
 # 👋 Hi there
 
 I'm Esther Cecília, a passionate software developer and tech enthusiast. I currently work as a Software Developer. </br>
-With over 5 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
+With over 6 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
 
 
 # 💻 Tech Stack
